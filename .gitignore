@@ -6,3 +6,10 @@
 
 # R data files from past sessions
 .Rdata
+
+# RStudio files
+.Rproj.user/
+.Rproj
+
+# Projects and quizes and such cloned from other repos
+_external
